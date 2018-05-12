@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7630
     wikipedia: http://en.wikipedia.org/wiki/Giovanni_Battista_Guarini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17835#Il-pastor-fido-in-lingua-napolitana
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2006-02-23'
 gutenberg_type: Text
