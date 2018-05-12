@@ -1,0 +1,34 @@
+_repo: Il-pastor-fido-in-lingua-napolitana_17835
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Basile, Domenico, active 17th century
+    gutenberg_agent_id: '7631'
+    url: http://www.gutenberg.org/2009/agents/7631
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guarini, Giovanni Battista
+    birthdate: 1538
+    deathdate: 1612
+    gutenberg_agent_id: '7630'
+    url: http://www.gutenberg.org/2009/agents/7630
+    wikipedia: http://en.wikipedia.org/wiki/Giovanni_Battista_Guarini
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2006-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17835'
+language: nap
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guarini, Battista, 1538-1612. Pastor fido -- Adaptations'
+- !lcc 'PQ'
+- !lcsh 'Pastoral drama, Italian'
+title: Il pastor fido in lingua napolitana
+url: http://www.gutenberg.org/ebooks/17835
